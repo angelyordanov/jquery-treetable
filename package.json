@@ -1,0 +1,19 @@
+{
+  "name": "jquery-treetable",
+  "version": "1.0.0",
+  "description": "jQuery treetable is a plugin for jQuery, the 'Write Less, Do More, JavaScript Library'. With this plugin you can display a tree in an HTML table, e.g. a directory structure or a nested list. Why not use a list, you say? Because lists are great for displaying a tree, and tables are not. Oh wait, but this plugin uses tables, doesn't it? Yes. Why do I use a table to display a list? Because I need multiple columns to display additional data besides the tree.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelyordanov/jquery-treetable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelyordanov/jquery-treetable/issues"
+  },
+  "homepage": "https://github.com/angelyordanov/jquery-treetable#readme"
+}
